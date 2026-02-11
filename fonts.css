@@ -1,0 +1,30 @@
+@font-face {
+   font-family: "Bahnschrift";
+   src: url("fonts/Bahnschrift.eot") format("embedded-opentype"), url("fonts/Bahnschrift.ttf") format("truetype"), url("fonts/Bahnschrift.woff") format("woff"), url("fonts/Bahnschrift.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Hind";
+   src: url("fonts/Hind Bold.eot") format("embedded-opentype"), url("fonts/Hind Bold.ttf") format("truetype"), url("fonts/Hind Bold.woff") format("woff"), url("fonts/Hind Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Hind";
+   src: url("fonts/Hind Regular.eot") format("embedded-opentype"), url("fonts/Hind Regular.ttf") format("truetype"), url("fonts/Hind Regular.woff") format("woff"), url("fonts/Hind Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue";
+   src: url("fonts/Bebas Neue Bold.eot") format("embedded-opentype"), url("fonts/Bebas Neue Bold.ttf") format("truetype"), url("fonts/Bebas Neue Bold.woff") format("woff"), url("fonts/Bebas Neue Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue";
+   src: url("fonts/Bebas Neue Regular.eot") format("embedded-opentype"), url("fonts/Bebas Neue Regular.otf") format("opentype"), url("fonts/Bebas Neue Regular.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
